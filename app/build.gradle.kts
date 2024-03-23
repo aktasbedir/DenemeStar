@@ -68,5 +68,7 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
     //sonradan eklendi
-    implementation(project(":star-framework"))
+    //implementation(project(":star-framework"))
+    implementation("com.github.aktasbedir:DenemeStar:1.0.2")
+
 }
