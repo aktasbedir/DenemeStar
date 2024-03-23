@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
 //                    Greeting("Android")
-                    ImagePreview(image = painterResource(id = R.drawable.aktasbdr), onImageClick = {})
+              //      ImagePreview(image = painterResource(id = R.drawable.aktasbdr), onImageClick = {})
                 }
             }
         }
